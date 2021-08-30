@@ -10,4 +10,4 @@ function bubbleSort(arr){
 console.log(arr);
 }
 
-bubbleSort([23,12,18,22,21,1,13,25,50])
+bubbleSort([23,12,18,22,21,1,13,25,50,-12])
